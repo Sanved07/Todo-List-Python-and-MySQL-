@@ -1,12 +1,10 @@
 # Important Note : To run this todo list program you need MySQL and mysql-connector npm package
 
- <!-- This program runs successfully and can perform all the mentioned operation as mentioned in the video
- Just make a MySQL database named todolist and update your username and password in the dbhelper.py file
- 
- self.con = connector.connect(host="localhost", port='3306', user='<YOUR_USER_NAME>',
-                                     password='<YOUR_PASSWORD>', database='todolist', auth_plugin='mysql_native_password')
- 
-   -->
+This program runs successfully and can perform all the mentioned operation as mentioned in the video
+Just make a MySQL database named todolist and update your username and password in the dbhelper.py file
+
+self.con = connector.connect(host="localhost", port='3306', user='<YOUR_USER_NAME>',
+password='<YOUR_PASSWORD>', database='todolist', auth_plugin='mysql_native_password')
 
 # Global Digital Corps - Software Engineering Test Problem | Priority list
 
